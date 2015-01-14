@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">WoufWidget</string>
+
+    <string name="wouf_0">Un woufeur sachant woufer sans son WOUF est-il un vrai woufeur?</string>
+    <string name="wouf_1">Pierre qui wouf n\'amasse pas WOUF</string>
+    <string name="wouf_2">Tant va la wouf à l\'eau qu\'à la fin elle se WOUF</string>
+    <string name="wouf_3">L\'argent ne fait pas le WOUF</string>
+    <string name="wouf_4">L\'habit ne fait pas le WOUF</string>
+    <string name="wouf_5">Demain est un autre WOUF</string>
+    <string name="wouf_6">La wouf porte conseil</string>
+    <string name="wouf_7">Qui a woufé woufera</string>
+    <string name="wouf_8">Tout vient à point à celui qui sait wouf</string>
+    <string name="wouf_9">Woufons dès aujourd\'hui pour mieux woufer demain</string>
+     <string name="wouf_10">Qui vivera woufera</string>
+</resources>
